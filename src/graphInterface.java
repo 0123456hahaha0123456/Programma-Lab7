@@ -47,11 +47,11 @@ public class graphInterface extends JPanel {
 
 
         //createTree
-
+/*
         try{
             viewTree.add(new Tree());
         } catch (IOException e){ System.out.println("File not found");};
-
+*/
         //*********************************
         window.setVisible(true);
     }
