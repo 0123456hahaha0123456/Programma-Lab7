@@ -1,0 +1,9 @@
+name,job,age,onTV
+duc,student,21,true
+yen,student,20,false
+thang,pupil,15,true
+dung,junggler,30,true
+phanh,frecken,37,false
+quang,pupil,14,false
+hoang,junggler,24,true
+dung,student,20,false
